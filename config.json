@@ -1,0 +1,5 @@
+{
+  "api_key": "538597e779004508610dd865f0a62281",
+  "temp_threshold": 35,
+  "alert_conditions": ["Rain", "Thunderstorm", "Snow"]
+}
